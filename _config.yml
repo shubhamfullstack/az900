@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  Azure Fundamentals exam is an opportunity to prove 
  knowledge of cloud concepts, Azure services, Azure workloads, 
  security and privacy in Azure, as well as Azure pricing and support.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/az900" # the subpath of your site, e.g. /blog
 url: "https://shubhamfullstack.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  shubhamfullstack
