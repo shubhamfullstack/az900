@@ -30,7 +30,7 @@ url: "https://shubhamfullstack.github.io" # the base hostname & protocol for you
 github_username:  shubhamfullstack
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 # plugins:
 #   - jekyll-feed
 
